@@ -3,10 +3,11 @@
 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orol116&show_icons=true&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orol116)](https://github.com/orol116/github-readme-stats)
 <!--
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orol116&show_icons=true&theme=vue)
+
 **orol116/orol116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
