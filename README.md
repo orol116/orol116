@@ -2,6 +2,7 @@
 </br>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orol116&show_icons=true&theme=radical)
 <!--
 **orol116/orol116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
