@@ -1,4 +1,4 @@
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<h2 align="center"><b>🛠 Tech Stack 🛠</b></h2>
 </br>
 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
