@@ -1,3 +1,4 @@
+<!--
 <h2 align="center"><b>🛠 Tech Stack 🛠</b></h2>
 </br>
 
@@ -11,7 +12,7 @@
  <h2 align="center"><b>🛠 Contact 🛠</b></h2>
 
 <a  href="https://www.instagram.com/been._.g/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  
+-->  
 
  [![orol116's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=orol116&theme=xcode)](https://git.io/orol116)
    
